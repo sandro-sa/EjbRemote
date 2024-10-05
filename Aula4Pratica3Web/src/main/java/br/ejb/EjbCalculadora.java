@@ -9,7 +9,7 @@ import javax.ejb.Stateless;
 
 /**
  *
- * @author javaebj
+ * @author Sandro Amancio de Sá
  */
 @Stateless
 public class EjbCalculadora implements bri.ICalculadora{

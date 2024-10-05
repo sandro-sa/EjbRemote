@@ -14,7 +14,7 @@ import lombok.Setter;
 
 /**
  *
- * @author javaebj
+ * @author Sandro Amancio de Sá
  */
 @Named(value = "jsfCalculadora")
 @RequestScoped
