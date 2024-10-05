@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão revisada e estilizada do seu README.md:
-
----
-
 # Criando um EJB com Acesso Remoto
 
 ## Objetivos
@@ -214,4 +210,3 @@ private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRS
     }
 
 ````
----
